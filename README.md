@@ -6,7 +6,6 @@ FTIR Data Processing V5 is a Python-based GUI application designed for **FTIR sp
 - **Sorting spectral columns** for better organization.
 - **Renaming columns** based on voltage/time intervals.
 - **Reprocessing background** signals for cleaner data.
-- **Ensuring column name consistency** to prevent unwanted `.1` suffixes.
 - **A dynamic GUI with auto-resizing** for different screen sizes.
 
 This tool was developed to streamline FTIR data processing, making it easier to work with large datasets while maintaining accuracy and consistency.
