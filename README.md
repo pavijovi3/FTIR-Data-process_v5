@@ -30,7 +30,9 @@ pip install pandas polars natsort tk
 
 ```
 ## To create a standalone executable (.exe) with no command window:
+```bash
 pyinstaller --onefile --noconsole --icon="ftir-icon.ico" FTIR-Data-process_v5.py
+```
 The executable will be available in the dist/ folder.
 
 
